@@ -1,0 +1,4 @@
+ADMINISTRADOR
+http://localhost/superhotel/admin/
+Login username / password:
+tusolutionweb@gmail.com  / tusolutionweb
